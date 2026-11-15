@@ -1,0 +1,16 @@
+com\duoc\cloud\model\Ticket$TicketBuilder.class
+com\duoc\cloud\config\AwsS3Config.class
+com\duoc\cloud\dto\TicketResponseDTO$TicketResponseDTOBuilder.class
+com\duoc\cloud\model\Ticket.class
+com\duoc\cloud\repository\TicketRepository.class
+com\duoc\cloud\controller\TicketController.class
+com\duoc\cloud\exception\GlobalExceptionHandler.class
+com\duoc\cloud\exception\RecursoNoEncontradoException.class
+com\duoc\cloud\dto\EstadisticasResponseDTO$EstadisticasResponseDTOBuilder.class
+com\duoc\cloud\dto\TicketResponseDTO.class
+com\duoc\cloud\SistemaTicketsCloudApplication.class
+com\duoc\cloud\dto\TicketRequestDTO.class
+com\duoc\cloud\service\S3StorageService.class
+com\duoc\cloud\service\EfsStorageService.class
+com\duoc\cloud\service\TicketService.class
+com\duoc\cloud\dto\EstadisticasResponseDTO.class

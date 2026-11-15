@@ -1,0 +1,13 @@
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\config\AwsS3Config.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\controller\TicketController.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\dto\EstadisticasResponseDTO.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\dto\TicketRequestDTO.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\dto\TicketResponseDTO.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\exception\GlobalExceptionHandler.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\exception\RecursoNoEncontradoException.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\model\Ticket.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\repository\TicketRepository.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\service\EfsStorageService.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\service\S3StorageService.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\service\TicketService.java
+C:\Users\andre\Downloads\Configurando IDaaS y API Manager\sistema-tickets-cloud\src\main\java\com\duoc\cloud\SistemaTicketsCloudApplication.java
